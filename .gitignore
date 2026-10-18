@@ -2,9 +2,16 @@
 
 db/*
 modules/*
-scripts/sage_education-install.sh
-scripts/sage_edu-v1-install.sh
-scripts/sage_edu-v1.1-install.sh
+scripts/*
+docker/*
+frontend/*
+ARCHITECTURE.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+COPYRIGHT
+GOVERNANCE.md
+MAINTAINERS.md
+SECURITY.md
 
 backend/*
 docs/*

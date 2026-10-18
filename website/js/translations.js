@@ -19,7 +19,7 @@ const translations = {
         },
         hero: {
             title: "Gestão escolar<br><em>que realmente funciona</em>",
-            subtitle: "Uma plataforma open source completa para gerir instituições de ensino — de pequenos centros de formação a redes públicas nacionais.",
+            subtitle: "Uma plataforma open source completa para gerir instituições de ensino, pequenos centros de formação a redes públicas nacionais.",
             seeDemo: "🚀 Ver Demo",
             documentation: "📚 Documentação",
             github: "📦 GitHub"
@@ -49,7 +49,7 @@ const translations = {
         modules: {
             plataform: "A Plataforma",
             module: "Módulos",
-            module_info: "Sistemas integrados para gestão completa da sua instituição.",
+            module_info: "Sistemas integrados sobre um ERP para gestão completa da sua instituição.",
             sga: "SGA",
             sga_info: "Sistema de Gestão Académica",
             sge: "SGE",
@@ -103,7 +103,7 @@ const translations = {
         audience: {
             audience: "Para Quem",
             sage_audience: "Para Quem é o SAGE Edu?",
-            audience_info: "Desenvolvido para diferentes contextos educacionais.",
+            audience_info: "Desenvolvido para diferentes contextos educacionais e para instituições que procuram soberania institucional.",
             school: "Escolas Privadas",
             school_info: "Gestão completa e profissional para instituições de ensino privado.",
             government: "Governo",
@@ -119,7 +119,7 @@ const translations = {
             demo_description: "Servidor de demonstração público com diferentes perfis de acesso.",
             access: "Acesso imediato,<br>sem registo",
             access_info: "Explore o SAGE Edu com diferentes perfis — desde estudante até administrador. Descubra como cada utilizador interage com a plataforma no seu dia a dia.",
-            demo_link: "🔗 sage.comunidadedosaber.ao",
+            demo_link: "🔗 app.sage-edu.comunidadedosaber.ao",
             demo_app: "🚀 Abrir Demo",
             demo_profile: "Perfil",
             demo_user: "Utilizador",
@@ -202,9 +202,9 @@ const translations = {
             price_table: "Não trabalhamos com tabelas de preços fixas. Cada instituição tem a sua realidade orçamental, técnica e geográfica. O nosso processo começa sempre por uma conversa.",
         },
         footer: {
-            version: "SAGE <span>Edu</span> versão 1.4",
+            version: "SAGE <span>Edu</span> versão 2.0",
             community: "Comunidade do Saber",
-            license: "Free & Open Source",
+            license: "Livre & Aberto",
             github: "📦 GitHub",
             documentation: "📚 Documentação",
             demo: "🚀 Demo",
@@ -223,7 +223,7 @@ const translations = {
         },
         hero: {
             title: "School management<br><em>that really works</em>",
-            subtitle: "A complete open source platform to manage educational institutions — from small training centers to national public networks.",
+            subtitle: "A complete open source platform to manage educational institutions, small training centers to national public networks.",
             seeDemo: "🚀 See Demo",
             documentation: "📚 Documentation",
             github: "📦 GitHub"
@@ -253,7 +253,7 @@ const translations = {
         modules: {
             plataform: "The Platform",
             module: "Module",
-            module_info: "Integrated systems for complete management of your institution.",
+            module_info: "Integrated systems built on an ERP for the complete management of your institution.",
             sga: "AMS",
             sga_info: "Academic Management System",
             sge: "EMS",
@@ -307,7 +307,7 @@ const translations = {
         audience: {
             audience: "For Whom",
             sage_audience: "Who is SAGE Edu for?",
-            audience_info: "Developed for different educational contexts.",
+            audience_info: "Developed for different educational contexts and for institutions seeking institutional sovereignty.",
             school: "Private Schools",
             school_info: "Complete and professional management for private educational institutions.",
             government: "Government",
@@ -323,7 +323,7 @@ const translations = {
             demo_description: "Public demo server with different access profiles.",
             access: "Immediate access,<br>no registration required.",
             access_info: "Explore SAGE Edu with different profiles — from student to administrator. Discover how each user interacts with the platform in their daily work.",
-            demo_link: "🔗 sage.comunidadedosaber.ao",
+            demo_link: "🔗 app.sage-edu.comunidadedosaber.ao",
             demo_app: "🚀 Demo",
             demo_profile: "Profile",
             demo_user: "User",
@@ -406,7 +406,7 @@ const translations = {
             price_table: "We don't work with fixed price lists. Each institution has its own budgetary, technical, and geographical realities. Our process always begins with a conversation.",
         },
         footer: {
-            version: "SAGE <span>Edu</span> version 1.4",
+            version: "SAGE <span>Edu</span> version 2.0",
             community: "Comunidade do Saber",
             license: "Free & Open Source",
             github: "📦 GitHub",
@@ -527,7 +527,7 @@ const translations = {
             demo_description: "Serveur de démonstration public avec différents profils d'accès.",
             access: "Accès immédiat,,<br>aucun enregistrement",
             access_info: "Explorez SAGE Edu à travers différents profils — de l'étudiant à l'administrateur. Découvrez comment chaque utilisateur interagit avec la plateforme au quotidien.",
-            demo_link: "🔗 sage.comunidadedosaber.ao",
+            demo_link: "🔗 app.sage-edu.comunidadedosaber.ao",
             demo_app: "🚀 Ouvrir la démo",
             demo_profile: "Profil",
             demo_user: "Utilisateur",
