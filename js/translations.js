@@ -19,7 +19,7 @@ const translations = {
         },
         hero: {
             title: "Gestão escolar<br><em>que realmente funciona</em>",
-            subtitle: "Uma plataforma open source completa para gerir instituições de ensino — de pequenos centros de formação a redes públicas nacionais.",
+            subtitle: "Uma plataforma open source completa para gerir instituições de ensino, pequenos centros de formação a redes públicas nacionais.",
             seeDemo: "🚀 Ver Demo",
             documentation: "📚 Documentação",
             github: "📦 GitHub"
@@ -49,7 +49,7 @@ const translations = {
         modules: {
             plataform: "A Plataforma",
             module: "Módulos",
-            module_info: "Sistemas integrados para gestão completa da sua instituição.",
+            module_info: "Sistemas integrados sobre um ERP para gestão completa da sua instituição.",
             sga: "SGA",
             sga_info: "Sistema de Gestão Académica",
             sge: "SGE",
@@ -103,7 +103,7 @@ const translations = {
         audience: {
             audience: "Para Quem",
             sage_audience: "Para Quem é o SAGE Edu?",
-            audience_info: "Desenvolvido para diferentes contextos educacionais.",
+            audience_info: "Desenvolvido para diferentes contextos educacionais e para instituições que procuram soberania institucional.",
             school: "Escolas Privadas",
             school_info: "Gestão completa e profissional para instituições de ensino privado.",
             government: "Governo",
@@ -204,7 +204,7 @@ const translations = {
         footer: {
             version: "SAGE <span>Edu</span> versão 2.0",
             community: "Comunidade do Saber",
-            license: "Free & Open Source",
+            license: "Livre & Aberto",
             github: "📦 GitHub",
             documentation: "📚 Documentação",
             demo: "🚀 Demo",
@@ -223,7 +223,7 @@ const translations = {
         },
         hero: {
             title: "School management<br><em>that really works</em>",
-            subtitle: "A complete open source platform to manage educational institutions — from small training centers to national public networks.",
+            subtitle: "A complete open source platform to manage educational institutions, small training centers to national public networks.",
             seeDemo: "🚀 See Demo",
             documentation: "📚 Documentation",
             github: "📦 GitHub"
@@ -253,7 +253,7 @@ const translations = {
         modules: {
             plataform: "The Platform",
             module: "Module",
-            module_info: "Integrated systems for complete management of your institution.",
+            module_info: "Integrated systems built on an ERP for the complete management of your institution.",
             sga: "AMS",
             sga_info: "Academic Management System",
             sge: "EMS",
@@ -307,7 +307,7 @@ const translations = {
         audience: {
             audience: "For Whom",
             sage_audience: "Who is SAGE Edu for?",
-            audience_info: "Developed for different educational contexts.",
+            audience_info: "Developed for different educational contexts and for institutions seeking institutional sovereignty.",
             school: "Private Schools",
             school_info: "Complete and professional management for private educational institutions.",
             government: "Government",
